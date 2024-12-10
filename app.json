@@ -1,4 +1,5 @@
 {
+  
   "expo": {
     "name": "BetterAssignment",
     "slug": "BetterAssignment",
@@ -22,7 +23,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "bundler": "metro"
     }
   }
 }
